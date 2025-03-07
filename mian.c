@@ -5,7 +5,7 @@
 int main()
 {
     int a,b;
-    printf("enter a,b values:");
+    printf("enter a,b values:"); ///modified by manjunadh
     scanf("%d%d",&a,&b);
     printf("addtion is %d\n",add(a,b));
     // printf("addtion is %d\n",sub(a,b));
